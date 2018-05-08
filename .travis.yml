@@ -3,8 +3,9 @@ rvm:
  - 2.0.0
  - 2.1.0
  - 2.2.0
- - rbx
+ - 2.3.3
+ - jruby-9.1.14.0
  - jruby
 notifications:
   email:
-   - brad.spaulding@gmail.com
+   - ajinkya.pisal+travis@gmail.com
